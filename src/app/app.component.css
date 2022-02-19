@@ -1,0 +1,13 @@
+.bg{
+    background-color: black;
+}
+
+header{
+    padding: 5px;
+}
+
+button{
+    color: white;
+    background-color: tomato;
+    margin-right: 5px;
+}
