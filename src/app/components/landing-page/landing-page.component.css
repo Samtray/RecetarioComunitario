@@ -1,0 +1,51 @@
+.main-header{
+    height: 350px;
+    background: rgb(255,100,3);
+    background: linear-gradient(90deg, rgba(255,100,3,1) 30%, rgba(255,139,66,1) 100%);
+}
+
+.logo{
+    margin-left: 10px;
+}
+
+.button-holder{
+    float: right;
+}
+
+button{
+    color: white;
+    margin: 25px 10px 0 0;
+    font-size: large;
+
+}
+
+.different-button{
+    background-color: white;
+    color: #ff6403;
+}
+
+.title{
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 75px;
+}
+
+.subtitle{
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.burger{
+    float: left;
+}
